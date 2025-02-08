@@ -13,8 +13,7 @@ class EMGAnalyser:
         self.model = "gpt-4o"
 
         self.instructions = (
-            "Use the EMG dataset for developing motion decoding models. Col 1 is labels, and the "
-            "other columns are the corresponding EMG data.\n\n"
+            "You are EMG analyser.\n\n"
         )
         self.question_history = []
         self.answer_history = []
