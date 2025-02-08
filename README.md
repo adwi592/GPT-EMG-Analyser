@@ -5,8 +5,9 @@ This repository provides a framework for automating feature extraction and model
 
 ## Demo Video
 Watch the demo below to see the system in action:
+![Demo GIF](media/demo.gif)  
 
-[Click here to watch the full video](media/demo.mp4)  
+[Click here to download and watch the full video](media/demo.mp4)  
 
 ## Repository Structure
 
