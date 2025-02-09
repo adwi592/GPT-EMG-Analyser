@@ -7,7 +7,6 @@ This repository provides a framework for automating feature extraction and model
 Watch the demo below to see the system in action:
 ![Demo GIF](media/demo.gif)  
 
-[Click here to download and watch the full video](media/demo.mp4)  
 
 ## Repository Structure
 
@@ -15,9 +14,7 @@ Watch the demo below to see the system in action:
 /ChatGPT-EMG-Analyser
 │── /src                    # Source code directory
 │   ├── GPT_Analyser.py      # Handles ChatGPT API interactions and execution
-│   ├── GPT_code.py          # Core processing logic for feature extraction and model training
 │   ├── credentials.py       # Stores API key (DO NOT commit this file)
-│── /notebooks              # (Optional) Jupyter notebooks for testing
 │── /data                   # (Optional) EMG dataset storage (gitignored)
 │── /media                  # Video and image assets
 │   ├── demo.mp4            # Full demo video
@@ -26,7 +23,6 @@ Watch the demo below to see the system in action:
 │── README.md               # Project description and setup instructions
 │── requirements.txt        # Dependencies for the project
 │── LICENSE                 # License file (if needed)
-│── config_template.py      # Template for credentials (safe for commit)
 ```
 
 ## Installation and Setup
